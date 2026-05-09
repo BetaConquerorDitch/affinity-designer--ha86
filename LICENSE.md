@@ -1,4 +1,4 @@
-
+Enhance Affinity Designer for macOS with Affinity Designer for macOS automatic Action: color correction & plugin support, the #1 action. Includes color correction and plugin
 
 
 
